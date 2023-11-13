@@ -1,0 +1,9 @@
+Scene Polygons (600, 600)
+	Text Color(130, 5, 130) at (20, 20) "Test Number 2";
+	RightTriangle Color (128, 0, 128) at (400, 50) Height 300 Width 100;
+	Rectangle Color (0, 28, 0) at (50, 50) Height 300 Width 500;
+	Isosceles Color (255, 0, 0) at (300, 100) Height 200 Width 200;
+	Parallelogram Color (0, 0, 255) at (100, 200) (200, 300) Offset 60;
+	RegularPolygon Color(255, 255, 255) at (500, 250) Sides 6 Radius 50;
+	Text Color(0, 0, 0) at (400, 200) "Hello World";
+End.
